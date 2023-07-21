@@ -4,11 +4,12 @@ This project is a daily planner that allows the user to save events for each hou
 
 ## Screenshots
 
-![image](https://github.com/NateGreeff/Daily-Scheduler/assets/21099065/908e0700-8b42-4e35-9cd2-0853bbfd417a)
+![image](https://github.com/NateGreeff/Daily-Scheduler/assets/21099065/2bed7cc4-5d03-4099-9ab3-93c46936928d)
 
 
 ## Live Demo
 
+https://nategreeff.github.io/Daily-Scheduler/
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
